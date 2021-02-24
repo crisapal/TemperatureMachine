@@ -9,7 +9,7 @@ This app was implemented on 2 sides.
 - using an I2C protocol for retrieving data from our Pmod Sensor
 - setting an UART connection
 
-![Face](https://github.com/crisapal/TemperatureMachine/blob/main/Software%20project/assets/face.png =100x20)
+![Face](https://github.com/crisapal/TemperatureMachine/blob/main/Software%20project/assets/face.png ) { height=50% }
 
 
 **Software side:** 
