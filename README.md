@@ -17,4 +17,4 @@ This app was implemented on 2 sides.
 - setting the virtual ports and opening the UART connection
 - displaying a precise temperature that is read once in 10 seconds by listening to the "Get Temperature" Button
 
-![Temperature presentation](https://github.com/crisapal/TemperatureMachine/blob/main/Software%20project/assets/temp.png)
+![Temperature presentation](https://github.com/crisapal/TemperatureMachine/blob/main/Software%20project/assets/temp.png | width=100)
