@@ -1,3 +1,4 @@
+--- code adaptation after digillent's oficial website
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 
